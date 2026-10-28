@@ -42,3 +42,13 @@ extraia os zips novos. Não extraia por cima: os nomes das pastas trazem a vers�
 versão antiga esquecida ao lado da nova quebra o jogo.
 
 Os mods pertencem aos seus autores (Nexus Mods / 7daystodiemods.com); este pacote só junta as versões usadas no servidor.
+
+## Histórico de correções
+- **2026-10-28 (tarde)** — Release `twd-2026-10-28`, **parte 3 reenviada às 15:58**: tirados arquivos de programação
+  (pastas `.vs`, `obj`, `.idea`, `*.pdb`) e um arquivo de atalhos de teclado do Quartz que era do dono do servidor
+  (`ActionSetSaves.pref`) e substituiria os seus. Se você baixou a parte 3 **antes das 15:58 de 28/10**, baixe só ela de
+  novo; as partes 1 e 2 não mudaram. Instruções corrigidas: espaço necessário é **9 GB** (não 4,5), o jeito garantido de
+  desligar o EAC é pelo launcher do jogo, e nas atualizações a pasta `Mods` deve ser esvaziada (não extrair por cima).
+- **2026-10-28 (manhã)** — Pacote inicial com 33 mods para o 7 Days to Die **V3.4.0**. Em relação ao que rodava antes no
+  servidor, saíram `BdubsVehicles` (repetia os carros do Fluffy Panda) e `LittleRedSonja_FancyZombieVariants` (só skins),
+  para aliviar a memória da placa de vídeo; SCore, Quartz e Beyond Storage foram atualizados para as versões do 3.4.
