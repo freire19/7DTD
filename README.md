@@ -5,7 +5,7 @@ armas Izayo, chefões AEC, tempestades de horda, noites escuras…). **Só PC** 
 
 ## O que você precisa
 - **7 Days to Die V 3.4.0** (versão normal da Steam, atualizada).
-- Uns **4,5 GB** livres.
+- Uns **9 GB** livres: 4 GB para os zips + 5 GB para os mods extraídos (depois pode apagar os zips).
 
 ## Instalação (uma vez)
 1. Na página **[Releases](../../releases/latest)** baixe os 3 arquivos:
@@ -23,8 +23,10 @@ armas Izayo, chefões AEC, tempestades de horda, noites escuras…). **Só PC** 
    Atenção: cada pasta de mod tem que estar **direto** dentro de `Mods` (não `Mods/TWD-Mods-parte1/...`).
 
 ## Para jogar
-1. Na Steam clique em **Jogar** e escolha **"Jogar sem EAC" / "Launch without EasyAntiCheat"**
-   (ou no launcher do jogo, desmarque *Use EAC*). Com EAC ligado o jogo **ignora os mods**.
+1. **Desligue o EAC** (com EAC ligado o jogo **ignora os mods** e o servidor te expulsa). O jeito garantido:
+   na Steam clique em **Jogar** → escolha **"Show game launcher"** → na aba *Settings* desmarque **Use EAC** → *Run game*.
+   O launcher guarda a escolha, e nas próximas vezes basta clicar em Jogar.
+   (Se a Steam oferecer direto "Jogar sem EAC / Launch without EasyAntiCheat", também serve.)
 2. *Entrar em um jogo* → procure **The Walking Dead** na lista (mostre servidores sem EAC / modificados),
    ou conecte pelo IP que o dono do servidor passar, porta **26900**.
 3. A primeira entrada demora (o jogo baixa o mapa de 10K do servidor).
@@ -35,6 +37,8 @@ armas Izayo, chefões AEC, tempestades de horda, noites escuras…). **Só PC** 
 - **Jogo pesado** → em *Opções → Vídeo* use Qualidade de textura **Média**, sombras médias, reflexos de tela desligados.
 
 ## Atualizações
-Quando o pacote mudar, sai um Release novo aqui. Apague as 33 pastas antigas e extraia os zips novos.
+Quando o pacote mudar, sai um Release novo aqui. **Esvazie a pasta `Mods` inteira** (deixe só a `0_TFP_Harmony`) e
+extraia os zips novos. Não extraia por cima: os nomes das pastas trazem a versão (ex.: `0-SCore-3.4.1.1453`), e uma
+versão antiga esquecida ao lado da nova quebra o jogo.
 
 Os mods pertencem aos seus autores (Nexus Mods / 7daystodiemods.com); este pacote só junta as versões usadas no servidor.
