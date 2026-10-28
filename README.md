@@ -4,7 +4,7 @@ Pacote de mods do cliente para jogar no servidor **The Walking Dead** (mapa Dead
 armas Izayo, chefões AEC, tempestades de horda, noites escuras…). **Só PC** — console não entra (mods com DLL, EAC desligado).
 
 ## O que você precisa
-- **7 Days to Die V 3.4.0** (versão normal da Steam, atualizada).
+- **7 Days to Die V 3.4.0** (versão normal da Steam, atualizada — o servidor acompanha o build mais novo, hoje b9).
 - Uns **9 GB** livres: 4 GB para os zips + 5 GB para os mods extraídos (depois pode apagar os zips).
 
 ## Instalação (uma vez)
